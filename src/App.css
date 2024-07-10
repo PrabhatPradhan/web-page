@@ -1,0 +1,31 @@
+
+#nav{
+  display: flex;
+  align-items: center;
+  background-color: grey;
+  gap: 13rem;
+  font-size: 1.1rem;
+  font-weight: 500;
+  height: 3rem;
+  margin-top: 1rem;
+  margin-left: 2rem;
+  width: 95%;
+  cursor: pointer;
+  padding-left: 1rem;
+  
+}
+#nav li{
+  list-style: none;
+}
+#home{
+  
+}
+#h1-fa{
+  font-size: 2rem;
+  color: brown;
+  margin-bottom: 1rem;
+}
+#nav-text{
+  cursor: pointer;
+  margin-left: 2rem;
+}
